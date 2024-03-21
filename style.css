@@ -1,0 +1,42 @@
+body {
+    font-family: 'Erica One', sans-serif;
+    background-color: #b5f6fc57;
+    color: #333;
+}
+
+section {
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+section#section3 {
+    background-color: #ffffff;
+}
+
+section#section3 img {
+    height: 40px;
+}
+
+section h1 {
+    color: #24bac8;
+    text-shadow: 3px 4px black;
+}
+
+section p {
+    color: #3f3244;
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #b2ebf2;
+    color: #333;
+    padding: 20px 0;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+    .img-fluid {
+        margin-bottom: 15px;
+    }
+}
